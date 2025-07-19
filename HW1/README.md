@@ -1,0 +1,2 @@
+# About
+Here is the implementation of Gaussian blur serially in both one and two passes. Also there is the implementation of Gaussian Blur in parallel using std::thread. You can view the report [here](report.pdf)
