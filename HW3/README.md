@@ -1,2 +1,2 @@
 # About
-Here is the implementation of Gaussian blur in parallel using OpenCL. You can view the report [here](report.pdf)
+Here is the implementation of Gaussian blur in parallel using OpenCL. There are also benchmarks and comparisons of the serial and parallel methods in the report. You can view the report [here](report.pdf)
