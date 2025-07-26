@@ -251,7 +251,7 @@ void gaussian_blur_separate_parallel(const char* filename)
 int main()
 {
 	const char* filename = "images/street_night.jpg";
-	//gaussian_blur_separate_serial(filename);
+	gaussian_blur_separate_serial(filename);
 	gaussian_blur_separate_parallel(filename);
 
 	return 0;
